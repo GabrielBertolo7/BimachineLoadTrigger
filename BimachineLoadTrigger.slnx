@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BimachineLoadTrigger.Cli/BimachineLoadTrigger.Cli.csproj" />
+    <Project Path="src/BimachineLoadTrigger.Core/BimachineLoadTrigger.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BimachineLoadTrigger.Core.Tests/BimachineLoadTrigger.Core.Tests.csproj" />
+  </Folder>
+</Solution>
